@@ -1,7 +1,7 @@
 ## 💫 About Me:
 🎓 Just a random IT student who likes to do a bit of everything.   
 🎮 I enjoy creating things that are useful or useless, fun, or just plain weird.  
-🐧 Currently playing with Python, Unity, Bash, and whatever looks interesting.
+🐧 Currently playing with Python, Unity, Bash, and whatever looks interesting.<br>
 🚀 Currently exploring whatever looks interesting, including stuff I probably shouldn't touch.  
 
 
